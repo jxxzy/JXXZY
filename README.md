@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **jxxzy/JXXZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 # 👨‍💻 About Me:
 I'm a web developer, and I'm interested in javascript and php programming languages.
 
