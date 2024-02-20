@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 # 👨‍💻 About Me:
-I'm a web developer, and I'm interested in javascript and php programming languages.
+I'm JOSUA SIAHAAN
+Web, Mobile, AI, IOT Developer
+Expert framework JavaScript, ReactJs and GO
+I have 2 years work experience in CYBEROREN.MY.ID And and 6 months in META.COM
 
 
 ## 🌐 Socials:
