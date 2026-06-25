@@ -499,7 +499,7 @@ This helps me understand how real-world systems are structured at scale.
 
 <img src="https://github-readme-stats.vercel.app/api?username=jxxzy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jxxzy&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=jxxzy&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxxzy&theme=tokyonight&hide_border=true&layout=compact" />
 
@@ -507,11 +507,15 @@ This helps me understand how real-world systems are structured at scale.
 
 ---
 
-# 🏅 GitHub Trophies
+# 🧩 GitHub Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jxxzy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxxzy&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jxxzy&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jxxzy&theme=tokyonight" />
 
 </div>
 
@@ -534,7 +538,7 @@ This helps me understand how real-world systems are structured at scale.
 [![Instagram](https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/jxxzyshn)
 [![TikTok](https://img.shields.io/badge/TikTok-020617?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mr.4nony)
 [![Discord](https://img.shields.io/badge/Discord-020617?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/sBUA95rnFN)
-[![Website](https://img.shields.io/badge/CYBEROREN.my.id-020617?style=for-the-badge&logo=google-chrome&logoColor=22D3EE)](https://CYBEROREN.my.id)
+[![Projects](https://img.shields.io/badge/Projects-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jxxzy?tab=repositories)
 [![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jxxzy)
 
 </div>
@@ -566,6 +570,6 @@ Improve without stopping.</code></pre>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:7c3aed,100:020617&section=footer" />
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=jxxzy&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=jxxzy&style=for-the-badge&color=0891b2&label=Profile+Views)
 
 </div>
